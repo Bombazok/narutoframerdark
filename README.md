@@ -1,13 +1,1 @@
-# README
-## This is the README for your extension "narutoframerdark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+I've merged two VS Code themes - one is the "Dark" by Thomaz with identifier "thomaz.preparing" at the extensions marketplace and the other one (which I used for syntax higlight) is "Framer Dark" from Base16 Theme Generator extension by Sanders Lauture with identifier "golf1052.base16-generator". I have no any rights to both of the source extensions, I just created this extensions for personal use at different devices and maybe somebody will find this theme pretty - you're welcome.
