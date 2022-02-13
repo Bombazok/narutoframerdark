@@ -1,8 +1,8 @@
 {
     "name": "narutoframerdark",
-    "displayName": "(Naruto+Framer)Dark",
+    "displayName": "Naruto Framer Dark Theme",
     "description": "Naruto Dark theme by Thomaz but with Framer Dark token colors (syntax highlight)",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.53.0"
     },
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Naruto Dark + Framer Dark syntax",
+                "label": "Naruto Framer Dark Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Naruto Dark + Framer Dark syntax-color-theme.json"
+                "path": "./themes/naruto-framer-dark-theme.json"
             }
         ]
     }
