@@ -2,6 +2,7 @@
     "name": "narutoframerdark",
     "repository": "https://github.com/Bombazok/narutoframerdark",
     "displayName": "Naruto Framer Dark Theme",
+    "publisher": "bombazok",
     "description": "Naruto Dark theme by Thomaz but with Framer Dark token colors (syntax highlight)",
     "version": "1.0.0",
     "engines": {
